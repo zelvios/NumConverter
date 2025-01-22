@@ -4,7 +4,7 @@
 
 A command-line application that allows users to convert numbers between Binary, Decimal, and Hexadecimal formats.
 ## 📷 Showcase
-![design.png](Screenshots/design.png)
+![design.png](screenshots/design.png)
 ___
 
 ## 🔧 Setup
